@@ -1,8 +1,8 @@
 # radio_test
 
-Radio button exemple
+Radio button exemple in flutter
 
-![](https://github.com/davidsdearaujo/radio_button_flutter/screenshots/image1.png)
+![](screenshots/image1.png)
 
 ## Getting Started
 
